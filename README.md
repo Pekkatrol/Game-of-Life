@@ -23,7 +23,7 @@ Conway's Game of Life est un automate cellulaire où des cellules vivantes meure
    ```
    git clone https://github.com/Pekkatrol/Game-of-Life.git
    ```
-2. Ouvrez le sketch principal (.py) dans l'IDE Processing :
+2. Ouvrez le sketch principal (.pyde) dans l'IDE Processing :
    - File → Open... → ouvrez le fichier `jeu_de_la_vie.pyde`.
 3. En haut à droite de l'IDE, choisissez le mode "Python".
 4. Appuyez sur le bouton Run (ou Ctrl/Cmd+R).
